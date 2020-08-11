@@ -11,7 +11,7 @@ function countdownstr(){
 
     bgimage.src=bgimg_chng;
 if(initialcountdownval==0){
-	window.location="index.html";
+	window.location="Moving-Car.html";
 }
 }
 
