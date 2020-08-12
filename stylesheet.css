@@ -79,3 +79,23 @@ body{
 	bottom:102;
 	z-index:5;
 }
+
+/*Countdown.html CSS */
+.Countdown-img{
+
+display: flex;
+}
+#Count {
+	
+	position: absolute;
+	left:650;
+	right: 250;
+	bottom:300;
+	z-index: 10;
+
+}
+
+#bg-img{
+	height:665px;
+	width: 100%;
+}
